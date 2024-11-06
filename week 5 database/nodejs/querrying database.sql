@@ -1,0 +1,8 @@
+SELECT
+    TITLE,
+    CONTENT,
+    CREATED_AT
+FROM
+    POSTS
+WHERE
+    USER_ID = 1;
